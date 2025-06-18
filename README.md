@@ -28,6 +28,7 @@ Data is updated regularly to ensure accuracy and relevance for strategic plannin
 CallOfStats.app is built by and for the Call of Dragons community. We're committed to providing accurate, timely, and useful statistics to help players and alliances succeed in the game.
 
 If you have suggestions, feedback, or encounter any issues, we encourage you to reach out to our community team. Your input helps us improve the platform for everyone.
+Discord: vaverix
 
 ## Important Disclaimer
 CallOfStats.app is an independent, community-driven project and is not affiliated with, endorsed by, or connected to Farlight Games or the official Call of Dragons development team. All game data, trademarks, and intellectual property belong to their respective owners.
